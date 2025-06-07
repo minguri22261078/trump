@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/minguri22261078/trump.git/static/css/main.e6c13ad2.css",
+    "main.js": "/minguri22261078/trump.git/static/js/main.1b575e2a.js",
+    "static/js/453.0b4b0abe.chunk.js": "/minguri22261078/trump.git/static/js/453.0b4b0abe.chunk.js",
+    "index.html": "/minguri22261078/trump.git/index.html",
+    "main.e6c13ad2.css.map": "/minguri22261078/trump.git/static/css/main.e6c13ad2.css.map",
+    "main.1b575e2a.js.map": "/minguri22261078/trump.git/static/js/main.1b575e2a.js.map",
+    "453.0b4b0abe.chunk.js.map": "/minguri22261078/trump.git/static/js/453.0b4b0abe.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.1b575e2a.js"
+  ]
+}
